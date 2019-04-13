@@ -1,0 +1,16 @@
+{
+    "name": "user-app-mongo-db",
+    "version": "0.0.0",
+    "description": "Description for userAppMongoDB",
+    "private": true,
+    "license": "UNLICENSED",
+    "cacheDirectories": [
+        "node_modules"
+    ],
+    "devDependencies": {
+        "generator-jhipster": "5.8.2"
+    },
+    "engines": {
+        "node": ">=8.9.0"
+    }
+}
